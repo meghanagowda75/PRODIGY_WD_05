@@ -1,13 +1,13 @@
-Weather App – Task 05
+#Weather App – Task 05
 
-🔗 Live Demo
-👉 https://meghanagowda75.github.io/PRODIGY_WD_05/
+#🔗 Live Demo
+##👉 https://meghanagowda75.github.io/PRODIGY_WD_05/
 
-📌 Description
-This project is a simple Weather Web Application.
+#📌 Description
+##This project is a simple Weather Web Application.
 It allows users to enter a city name and view real-time weather information using HTML, CSS, and JavaScript.
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 
 HTML
 
@@ -17,7 +17,7 @@ JavaScript
 
 OpenWeatherMap API
 
-✨ Features
+#✨ Features
 
 Search weather by city name
 
